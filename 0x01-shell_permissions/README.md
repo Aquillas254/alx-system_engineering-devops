@@ -1,0 +1,1 @@
+Switches to current user
